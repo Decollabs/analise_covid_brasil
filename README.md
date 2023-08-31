@@ -10,11 +10,11 @@
 Este projeto trata-se de uma análise sobre a evolução da COVID-19 no brasil e ao redor do mundo, além do estudo dos efeitos da vacinação no Brasil.
 Confira oque os dados da *One World in Data*, do Conselho Nacional de Saúde e do OpenDataSUS tem a dizer sobre esse período turbulento pelo qual passamos.
 
-[Link para o projeto completo](https://medium.com/@rafaelnduarte)
+[Link para o projeto completo]()
 
 **Links para me acharem:**
 * [LinkedIn](https://www.linkedin.com/in/andr%C3%A9-brand%C3%A3o-5311b528b/)
-* [Instagram](https://www.linkedin.com/in/rafael-n-duarte/)
+* [Medium](https://medium.com/@anun.brandao)
 
-
+https://medium.com/@anun.brandao
 ## Outros Projetos:
